@@ -56,7 +56,7 @@ All中，通常我们对Contact info，Bank info，Tax info进行编辑，我这
 
 1. 创建IAP商品
 
-手先创建一个App，然后才可以为该App创建内购商品。依旧，小白用户看一下如何[创建内购商品](https://developer.apple.com/library/content/documentation/LanguagesUtilities/Conceptual/iTunesConnectInAppPurchase_Guide/Chapters/CreatingInAppPurchaseProducts.html)。
+首先创建一个App，然后才可以为该App创建内购商品。依旧，小白用户看一下如何[创建内购商品](https://developer.apple.com/library/content/documentation/LanguagesUtilities/Conceptual/iTunesConnectInAppPurchase_Guide/Chapters/CreatingInAppPurchaseProducts.html)。
 
 再次动手实践：
 
